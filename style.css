@@ -1,0 +1,10 @@
+body {
+    text-align: center
+}
+
+img {
+    height: 400px;
+    width: 350px;
+    background: linear-gradient(lightblue 0%, pink 100%);
+
+}
